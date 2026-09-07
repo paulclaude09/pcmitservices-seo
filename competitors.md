@@ -1,6 +1,6 @@
 # Local Competitor Notes — Greater Moncton IT
 
-Last updated: 2026-08-31
+Last updated: 2026-09-07
 
 ## Primary competitors (by keyword cluster)
 
@@ -8,10 +8,11 @@ Last updated: 2026-08-31
 
 | Competitor | URL | Strengths | Weaknesses vs PCM |
 |------------|-----|-----------|-------------------|
-| **BeckTek** | becktek.ca | #1 for most Moncton IT keywords; dedicated location pages (Moncton, Dieppe, Saint John); active blog; Excellence Award; client testimonials; FAQ sections | Higher price positioning; less POS/retail focus |
+| **BeckTek** | becktek.ca | #1 for most Moncton IT keywords; Moncton page at `/service-areas/moncton-managed-it-services` with unique SEO; location pages (Dieppe, Riverview, Saint John); active blog; Excellence Award; client testimonials; FAQ sections (8+ per location page) | Higher price positioning; less POS/retail focus |
 | **digiBandit** | dbits.ca | Strong repair + managed IT combo; physical address (607 St George Blvd); POS page; transparent pricing; walk-in hours | Newer brand; less enterprise messaging |
 | **Southampton Solutions** | southamptonsolutions.ca | 30+ years; largest team claim; full street address (555 Edinburgh Dr) | Less content marketing |
 | **North Star** | northstarit.ca | Moncton location page; published pricing ($89/user/mo) | Remote-first (no Moncton storefront) |
+| **247Techify** | 247techify.com | Ranks for "IT support Moncton"; 24/7 remote + on-site dispatch; flat-rate from $1,099/mo | Ontario HQ; less local storefront presence |
 | **Accra Solutions** | accra.ca | Dieppe-based (418 Fox Creek Rd); managed IT + dev | Smaller market presence |
 
 ### Computer Repair

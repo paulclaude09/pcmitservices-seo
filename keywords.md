@@ -1,21 +1,22 @@
 # Keyword Tracker
 
-| Keyword | Last rank (2026-08-31) | Previous rank (2026-08-24) | Change | Top competitor |
+| Keyword | Last rank (2026-09-07) | Previous rank (2026-08-31) | Change | Top competitor |
 |---------|------------------------|----------------------------|--------|----------------|
 | IT support Moncton | Not ranked | Not ranked | — | BeckTek |
 | managed IT services Moncton | Not ranked | Not ranked | — | BeckTek |
 | small business IT support New Brunswick | Not ranked | Not ranked | — | Kalko Technologie |
 | computer repair Moncton | Not ranked | Not ranked | — | JustCallDave.ca |
 | Wi-Fi setup Moncton | Not ranked | Not ranked | — | CornerTech Solutions |
-| POS system setup Moncton | ~#2 | Page 2+ | ↑ Improved | digiBandit |
-| virus removal Moncton | Not ranked | Page 2+ (~8-10) | ↓ Declined | Unison Digital Systems |
+| POS system setup Moncton | ~#2 | ~#2 | — | digiBandit |
+| virus removal Moncton | Not ranked | Not ranked | — | digiBandit |
 | IT services Dieppe | Not ranked | Not ranked | — | BeckTek |
-| IT services Riverview | Not ranked | Not ranked | — | IT Atlant |
+| IT services Riverview | Not ranked | Not ranked | — | BeckTek |
 
 **Branded:** "PCM IT Services Moncton" = #1 (unchanged)
 
 ## Week-over-week summary
 
+- **2026-09-07:** 0 improved, 8 unchanged, 0 declined
 - **2026-08-31:** 1 improved, 7 unchanged, 1 declined
 - **2026-08-24:** 0 improved, 7 unchanged, 2 declined
 - **2026-08-17:** 2 improved, 7 unchanged, 0 declined
@@ -23,7 +24,8 @@
 
 ## Notes
 
-- POS ranking improved to ~#2 despite duplicate server-side SEO — likely driven by page content relevance
-- Virus removal declined; service page not appearing in SERPs (duplicate canonical to `/` is primary cause)
-- Critical blocker unchanged: all subpages serve homepage title/meta/canonical
-- Sitemap returns 200 via curl/Googlebot; intermittent 500 on some automated crawlers
+- POS ranking stable at ~#2 despite duplicate server-side SEO — likely driven by page content relevance
+- Duplicate subpage SEO unresolved for 5 consecutive weeks — primary ranking blocker
+- Sitemap returns 200 via curl/Googlebot; intermittent 500 on automated crawlers (including this run's fetch tool)
+- Location pages + computer-repair still missing from sitemap
+- Virus removal page not appearing in SERPs (duplicate canonical to `/` is primary cause)
