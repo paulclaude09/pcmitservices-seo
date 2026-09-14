@@ -1,6 +1,6 @@
 # Local Competitor Notes — Greater Moncton IT
 
-Last updated: 2026-09-07
+Last updated: 2026-09-14
 
 ## Primary competitors (by keyword cluster)
 
@@ -12,15 +12,15 @@ Last updated: 2026-09-07
 | **digiBandit** | dbits.ca | Strong repair + managed IT combo; physical address (607 St George Blvd); POS page; transparent pricing; walk-in hours | Newer brand; less enterprise messaging |
 | **Southampton Solutions** | southamptonsolutions.ca | 30+ years; largest team claim; full street address (555 Edinburgh Dr) | Less content marketing |
 | **North Star** | northstarit.ca | Moncton location page; published pricing ($89/user/mo) | Remote-first (no Moncton storefront) |
-| **247Techify** | 247techify.com | Ranks for "IT support Moncton"; 24/7 remote + on-site dispatch; flat-rate from $1,099/mo | Ontario HQ; less local storefront presence |
+| **247Techify** | 247techify.com | #3 for "IT support Moncton"; 24/7 remote + on-site dispatch; published pricing from $1,099/mo; 30-min response SLA | Ontario HQ; less local storefront presence |
 | **Accra Solutions** | accra.ca | Dieppe-based (418 Fox Creek Rd); managed IT + dev | Smaller market presence |
 
 ### Computer Repair
 
 | Competitor | URL | Strengths |
 |------------|-----|-----------|
-| **JustCallDave.ca** | justcalldave.ca | #1 computer repair Moncton; free diagnostics; full address; 6+ years local |
-| **digiBandit Repair** | dbits.ca/repair | Board-level repair; M.Eng technician; 1-year warranty |
+| **digiBandit Repair** | dbits.ca/repair | #1 computer repair Moncton (Sep 2026); board-level repair; walk-in at 607 St George Blvd; 1-year warranty |
+| **JustCallDave.ca** | justcalldave.ca | #2 computer repair Moncton; free diagnostics; full address (40 Weldon St) |
 | **Nerds On Site** | nerdsonsite.com | National brand; in-home/on-site; 100K+ reviews claim |
 | **BOOTUP Technology** | bootuptechnology.com | Since 2008; flat rates; 24/7 priority for subscribers |
 
