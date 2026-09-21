@@ -1,6 +1,6 @@
 # Local Competitor Notes — Greater Moncton IT
 
-Last updated: 2026-09-14
+Last updated: 2026-09-21
 
 ## Primary competitors (by keyword cluster)
 
@@ -19,7 +19,7 @@ Last updated: 2026-09-14
 
 | Competitor | URL | Strengths |
 |------------|-----|-----------|
-| **digiBandit Repair** | dbits.ca/repair | #1 computer repair Moncton (Sep 2026); board-level repair; walk-in at 607 St George Blvd; 1-year warranty |
+| **digiBandit Repair** | dbits.ca/repair | #1 computer repair Moncton (Sep 2026); board-level repair; walk-in at 607 St George Blvd; 1-year warranty; dedicated page title `Computer Repair Moncton NB | Laptop, Mac & Electronics` |
 | **JustCallDave.ca** | justcalldave.ca | #2 computer repair Moncton; free diagnostics; full address (40 Weldon St) |
 | **Nerds On Site** | nerdsonsite.com | National brand; in-home/on-site; 100K+ reviews claim |
 | **BOOTUP Technology** | bootuptechnology.com | Since 2008; flat rates; 24/7 priority for subscribers |
