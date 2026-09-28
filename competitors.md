@@ -1,6 +1,6 @@
 # Local Competitor Notes — Greater Moncton IT
 
-Last updated: 2026-09-21
+Last updated: 2026-09-28
 
 ## Primary competitors (by keyword cluster)
 
@@ -36,6 +36,7 @@ Last updated: 2026-09-21
 | Competitor | URL | Strengths |
 |------------|-----|-----------|
 | **digiBandit POS** | dbits.ca/pos | #1 POS Moncton; full rollout (hardware + training); CAD pricing |
+| **RKP Atlantic** | atlbiz.biz | Multiple Moncton POS/merchant landing pages (Clover, Elavon, Nuvei); Grand-Barachois local agent; strong Sep 2026 SERP presence |
 | **Business Payment Network** | businesspaymentnetwork.net | Clover specialist; bilingual; Moncton-based |
 | **DebitCardMachine.ca** | debitcardmachine.ca | Payment terminals; bilingual; HST pre-configured |
 
