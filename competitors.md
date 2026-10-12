@@ -1,6 +1,6 @@
 # Local Competitor Notes — Greater Moncton IT
 
-Last updated: 2026-10-05
+Last updated: 2026-10-12
 
 ## Primary competitors (by keyword cluster)
 
@@ -12,7 +12,8 @@ Last updated: 2026-10-05
 | **digiBandit** | dbits.ca | Strong repair + managed IT combo; physical address (607 St George Blvd); POS page; transparent pricing; walk-in hours | Newer brand; less enterprise messaging |
 | **Southampton Solutions** | southamptonsolutions.ca | 30+ years; largest team claim; full street address (555 Edinburgh Dr) | Less content marketing |
 | **North Star** | northstarit.ca | Moncton location page; published pricing ($89/user/mo) | Remote-first (no Moncton storefront) |
-| **247Techify** | 247techify.com | #3 for "IT support Moncton"; 24/7 remote + on-site dispatch; published pricing from $1,099/mo; 30-min response SLA | Ontario HQ; less local storefront presence |
+| **247Techify** | 247techify.com | 24/7 remote + on-site dispatch; published pricing from $1,099/mo; 30-min response SLA | Ontario HQ; less local storefront presence |
+| **Rugged Technology Services** | ruggedtech.ca | Dedicated `/it-support-moncton`, Dieppe, bilingual SMB messaging; flat-rate managed IT | Saint John HQ; newer Moncton SERP presence (Oct 2026) |
 | **Accra Solutions** | accra.ca | Dieppe-based (418 Fox Creek Rd); managed IT + dev | Smaller market presence |
 
 ### Computer Repair
