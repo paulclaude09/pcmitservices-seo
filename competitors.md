@@ -1,6 +1,6 @@
 # Local Competitor Notes — Greater Moncton IT
 
-Last updated: 2026-11-09
+Last updated: 2026-11-16
 
 ## Primary competitors (by keyword cluster)
 
@@ -68,8 +68,8 @@ Examples:
 
 ### Pages competitors have that PCM lacks or under-optimizes
 - [ ] Blog / resources section
-- [x] Dedicated computer repair landing page (in sitemap 2026-10-05; unique server SEO still missing)
-- [x] Location pages for Dieppe/Riverview (in sitemap as of 2026-10-05; duplicate server SEO still)
+- [x] Dedicated computer repair landing page — **unique server SEO live 2026-11-16**
+- [x] Location pages for Dieppe/Riverview — **unique server SEO live 2026-11-16**; Riverview ~#3 in snapshots
 - [ ] Client testimonials section
 - [ ] FAQ schema on service pages
 - [ ] Published pricing or pricing guide content
@@ -77,8 +77,8 @@ Examples:
 
 ## Gap-closing priorities for PCM
 
-1. **Per-page server-side SEO** — single highest-impact fix; competitors all have unique meta per page
-2. **Unique SEO on location + service pages** — PCM added Dieppe/Riverview/repair to sitemap (2026-10-05); BeckTek ranks Dieppe with unique meta at `/service-areas/managed-it-services-dieppe-nb`
+1. **GSC reindex + trust signals** — unique server SEO deployed 2026-11-16; next wins are reviews, street address, and blog vs BeckTek/Southampton
+2. **Managed IT SERP recovery** — NetAdmins/TechCare lead “managed IT services Moncton”; sharpen `/services` title and request indexing
 3. **Blog launch** — BeckTek publishes 2–4 Moncton posts/month; PCM has zero indexed blog content
 4. **Social proof** — Add 2–3 client quotes to homepage; request Google Business reviews
 5. **Computer repair page** — Add to sitemap with unique SEO to compete with JustCallDave
